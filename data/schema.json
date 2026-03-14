@@ -1,0 +1,7 @@
+{
+ "post_id": "string",
+ "text": "string",
+ "hashtags": ["string"],
+ "likes": "number",
+ "timestamp": "number"
+}
