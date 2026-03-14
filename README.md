@@ -17,3 +17,12 @@ timestamp
 ## Goal
 
 Build a simple pipeline for collecting, storing, and querying trend data.
+
+## Architecture
+
+Crawler → Data Processing → Shelby Storage → Query Layer
+
+- Crawler collects social posts and hashtags
+- Data processing extracts keywords and metrics
+- Shelby stores structured datasets
+- Query layer enables searching and trend analysis
