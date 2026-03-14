@@ -1,0 +1,16 @@
+[
+ {
+  "post_id": "1",
+  "text": "AI is changing the world",
+  "hashtags": ["AI","technology"],
+  "likes": 120,
+  "timestamp": 1710000000
+ },
+ {
+  "post_id": "2",
+  "text": "Web3 developer tools are growing fast",
+  "hashtags": ["web3","dev"],
+  "likes": 85,
+  "timestamp": 1710001000
+ }
+]
